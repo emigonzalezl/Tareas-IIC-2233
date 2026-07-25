@@ -1,0 +1,8 @@
+
+CANTIDAD_PLANETAS_MOSTRAR = None
+
+FACTOR_RADIO = 1.0
+X1 = 0
+Y1 = 0
+X2 = 0
+Y2 = 0

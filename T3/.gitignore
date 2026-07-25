@@ -1,0 +1,14 @@
+# Archivos grandes
+data/
+tests_publicos/
+
+# Otros
+
+utilidades.pyc
+README_inicial.md
+
+
+# Caches por tests
+backend/__pycache__
+.vscode
+
